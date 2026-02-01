@@ -1,2 +1,2 @@
 Get the user data...
-Store number data from it in an array
+process the data
